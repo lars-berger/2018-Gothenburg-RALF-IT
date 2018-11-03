@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "http://urltoimage.com/png",
+    "latitude": 57.764683,
+    "longitude": 11.944114899999999,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "http://urltoimage.com/png",
+    "latitude": 57.71,
+    "longitude": 11.945,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "http://urltoimage.com/png",
+    "latitude": 57.709,
+    "longitude": 11.94,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "http://urltoimage.com/png",
+    "latitude": 57.715,
+    "longitude": 11.95,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  }
+]
