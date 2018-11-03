@@ -1,8 +1,8 @@
 html {
   font-size: 18px;
   font-family: 'Lato', sans-serif;
-  background-color: #eeeeee;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 *, *:before, *:after {
@@ -27,16 +27,15 @@ body, ul {
 }
 
 a {
-  color: #b73019;
+  color: #ffffff;
   text-decoration: none;
 }
 
 h1 {
-  font-size: 1.8rem;
-  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
   font-weight: 900 !important;
   -webkit-font-smoothing: antialiased;
-  letter-spacing: 1px;
+  letter-spacing: 0.2px;
 }
 
 h2, h3, h4 {
@@ -58,13 +57,29 @@ p {
 
 p.light {
   color: #818181;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1.5rem;
 }
 
 .underline {
-height: 2px;
+height: 0.7px;
 background-color: black;
 width: 93%;
   border-radius: 1px;
   margin-bottom: 2.3rem;
+}
+
+
+input[type="text"] {
+  padding: 0.6rem;
+  outline: none;
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 3px;
+  margin-right: 1rem;
+}
+
+select {
+    padding: 0.6rem 1rem 0.6em 0.6rem;
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 3px;
+  color: rgb(100, 100, 100);
 }

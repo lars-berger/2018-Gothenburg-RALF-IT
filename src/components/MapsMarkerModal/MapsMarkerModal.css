@@ -4,8 +4,8 @@
   left: calc(50% - 22.5rem);
   z-index: 100;
   width: 45rem;
-  height: 25rem;
-  background: rgba(255, 255, 255, 0.93);
+  height: 26rem;
+  background: rgba(255, 255, 255, 0.98);
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
   border-radius: 4px;
   padding: 1.5rem 2rem 1.5rem 2rem;
@@ -19,7 +19,7 @@
 }
 
 .modal-item-header-close {
-    font-size: 1.8rem !important;
+  font-size: 1.8rem !important;
   cursor: pointer;
 }
 
@@ -33,7 +33,7 @@
 
 .modal-item-img {
   height: 12rem;
-  margin-right: 1rem;
+  margin-right: 1.5rem;
   border-radius: 3px;
 }
 
@@ -47,7 +47,8 @@
   display: flex;
 }
 
-.modal-item-postedBy-name, .modal-item-postedBy-date {
+.modal-item-postedBy-name,
+.modal-item-postedBy-date {
   margin-left: 0.6rem;
   color: #818181;
 }
