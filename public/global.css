@@ -2,7 +2,7 @@ html {
   font-size: 18px;
   font-family: 'Lato', sans-serif;
   box-sizing: border-box;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 *, *:before, *:after {
@@ -27,7 +27,7 @@ body, ul {
 }
 
 a {
-  color: #b73019;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -57,11 +57,11 @@ p {
 
 p.light {
   color: #818181;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1.5rem;
 }
 
 .underline {
-height: 2px;
+height: 0.7px;
 background-color: black;
 width: 93%;
   border-radius: 1px;

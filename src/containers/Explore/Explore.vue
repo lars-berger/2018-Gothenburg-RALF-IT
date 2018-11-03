@@ -1,7 +1,15 @@
 <template>
   <div class="explore">
     <nav class="sidebar">
+      <div class="sidebar-header">
+        <h1>Local Sharing</h1>
+      </div>
 
+      <p class="sidebar-label">Categories</p>
+      <a class="sidebar-link" href="/volunteering">Volunteering</a>
+      <a class="sidebar-link" href="/sharing-food">Sharing food</a>
+      <a class="sidebar-link selected" href="/lending-items">Lending Items</a>
+      <a class="sidebar-link" href="/communal-activities">Communal Activities</a>
     </nav>
     <main>
       <aside class="top">
@@ -16,20 +24,25 @@
           </select>
         </div>
       </aside>
-      
+
       <div class="content">
         <div class="list">
-          <h1>45 Listings</h1>
+          <h1>45 Results</h1>
+          <div class="list-items">
+            <div class="list-item" v-for="listing in listings">
+              <img class="list-item-img" :src="listing.picture">
+              <p>foijdsa</p>
+            </div>
+          </div>
           <!-- <p>fdijsoaof</p> -->
         </div>
         <div class="map">
-                <GmapMap :center="{ lat: latitude, lng: longitude }" :zoom="15" style="z-index: -2; width: 100%; height: 100%">
-                  <GmapMarker v-for="(item, index) in listings" :key="index" :position="{lat: Number(item.latitude), lng: Number(item.longitude)}"
-                    :clickable="true" @click="openModal(item)" />
-                </GmapMap>
-                
-                <MapsMarkerModal v-if="modal.visible" :details="modal.selectedListing" :closeModal="closeModal" />
-  
+          <GmapMap :center="{ lat: latitude, lng: longitude }" :zoom="15" style="z-index: 0; width: 100%; height: 100%">
+            <GmapMarker v-for="(item, index) in listings" :key="index" :position="{lat: Number(item.latitude), lng: Number(item.longitude)}"
+              :clickable="true" @click="openModal(item)" />
+          </GmapMap>
+
+          <MapsMarkerModal v-if="modal.visible" :details="modal.selectedListing" :closeModal="closeModal" />
         </div>
       </div>
 
