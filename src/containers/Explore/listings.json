@@ -40,8 +40,32 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
     "category": "item lending",
     "picture": "https://www.deere.co.za/common/media/images/product/equipment/tractors/7r_series_2014/7230R/r4a041544_R2_7230R_642x462.jpg",
-    "latitude": 57.715,
-    "longitude": 11.95,
+    "latitude": 57.712,
+    "longitude": 11.93,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://www.deere.co.za/common/media/images/product/equipment/tractors/7r_series_2014/7230R/r4a041544_R2_7230R_642x462.jpg",
+    "latitude": 57.70,
+    "longitude": 11.96,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://www.deere.co.za/common/media/images/product/equipment/tractors/7r_series_2014/7230R/r4a041544_R2_7230R_642x462.jpg",
+    "latitude": 57.717,
+    "longitude": 11.96,
     "postedBy": {
       "name": "Lars",
       "date": "Oct. 3, 2018"

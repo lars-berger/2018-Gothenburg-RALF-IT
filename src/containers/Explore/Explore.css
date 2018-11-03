@@ -70,15 +70,34 @@
   padding: 1rem 2rem;
 }
 
+.list-results {
+  margin-bottom: 2rem;
+}
+
 .list-items {
-  display: flex;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .list-item {
+  justify-self: start;
+  border-bottom: 1px solid rgb(141, 141, 141);
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
 
+.list-item-title {
+  margin-top: 0.5rem;
+  font-size: 1.15rem;
 }
 
 .list-item-img {
-  width: 15rem;
+  width: 18vw;
+  border-radius: 5px;
 }
+
+.list-item-date {
+    color: #5f5f5f;
+
+}
+

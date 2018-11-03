@@ -27,11 +27,14 @@
 
       <div class="content">
         <div class="list">
-          <h1>45 Results</h1>
+          <h1 class="list-results">6 Results</h1>
           <div class="list-items">
             <div class="list-item" v-for="listing in listings">
               <img class="list-item-img" :src="listing.picture">
-              <p>foijdsa</p>
+              <h4 class="list-item-title">{{listing.title}}</h4>
+              <p class="list-item-name">Posted by {{listing.postedBy.name}}</p>
+              <p class="list-item-date">{{listing.postedBy.date}}</p>
+
             </div>
           </div>
           <!-- <p>fdijsoaof</p> -->
