@@ -1,9 +1,6 @@
 .explore {
   display: flex;
-  width: 100%;
-  min-width: 100vw;
   height: 100%;
-  min-height: 100vh;
 }
 
 .sidebar {
@@ -17,25 +14,28 @@
 }
 
 .top {
-  padding: 0 1rem;
+  padding: 0 2rem;
   height: 4rem;
   width: calc(100vw - 13rem);
+  background-color: #fff;
   border-bottom: 1px solid rgb(207, 207, 207);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  z-index: 100;
 }
 
 .content {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 100%;
+  height: calc(100% - 4rem);
 }
 
 .list {
-  background-color: green;
+box-shadow: 4px 0px 15px rgba(0, 0, 0, 0.10);
+z-index: -1;
+padding: 1rem
 }
 
 .map {
-  background-color: purple;
 }
