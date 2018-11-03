@@ -1,7 +1,6 @@
 html {
   font-size: 18px;
   font-family: 'Lato', sans-serif;
-  background-color: #eeeeee;
   box-sizing: border-box;
 }
 
@@ -32,11 +31,10 @@ a {
 }
 
 h1 {
-  font-size: 1.8rem;
-  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
   font-weight: 900 !important;
   -webkit-font-smoothing: antialiased;
-  letter-spacing: 1px;
+  letter-spacing: 0.2px;
 }
 
 h2, h3, h4 {
