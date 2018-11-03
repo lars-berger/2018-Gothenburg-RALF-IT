@@ -20,7 +20,7 @@
       </div>
       <div class="underline modal-underline"></div>
       <div class="modal-item-details">
-        <img class="modal-item-img" src="https://www.deere.co.za/common/media/images/product/equipment/tractors/7r_series_2014/7230R/r4a041544_R2_7230R_642x462.jpg" >
+        <img class="modal-item-img" :src="details.picture" >
         <div class="modal-item-details-right">
           <h4>Description</h4>
           <p class="light">{{details.description}}</p>
