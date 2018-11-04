@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://i.ytimg.com/vi/DgpcC83LjhQ/maxresdefault.jpg",
+    "latitude": 57.764683,
+    "longitude": 11.944114899999999,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://i.ytimg.com/vi/G-Vn9ceMtno/maxresdefault.jpg",
+    "latitude": 57.71,
+    "longitude": 11.945,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://i.ytimg.com/vi/F3iIwgJTf2k/maxresdefault.jpg",
+    "latitude": 57.709,
+    "longitude": 11.94,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://www.niteequip.com/siteart/Tractors/CompactUtilityTractors.jpg",
+    "latitude": 57.712,
+    "longitude": 11.93,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Massey_Ferguson_175_red_tractor_September_2005.jpg/1200px-Massey_Ferguson_175_red_tractor_September_2005.jpg",
+    "latitude": 57.70,
+    "longitude": 11.96,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  },
+  {
+    "title": "Lending my tractor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim fds, quis nostrud exercitation ullamco consectetur adipiscing elit laboris",
+    "category": "item lending",
+    "picture": "https://www.deere.co.za/common/media/images/product/equipment/tractors/7r_series_2014/7230R/r4a041544_R2_7230R_642x462.jpg",
+    "latitude": 57.717,
+    "longitude": 11.96,
+    "postedBy": {
+      "name": "Lars",
+      "date": "Oct. 3, 2018"
+    }
+  }
+]
